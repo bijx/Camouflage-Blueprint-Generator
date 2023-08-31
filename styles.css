@@ -1,0 +1,60 @@
+body {
+  margin: 0;
+  overflow: hidden;
+  font-family: 'Arial', sans-serif;
+  background-color: #1a1a1a;
+}
+
+#scene {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+button#generate {
+  position: absolute;
+  bottom: 5%;
+  left: 50%;
+  transform: translateX(-50%);
+  padding: 10px 20px;
+  font-size: 20px;
+  border: none;
+  background-color: #7FB800;
+  color: #1a1a1a;
+  cursor: pointer;
+}
+
+button#generate:hover {
+  background-color: #33cc33;
+}
+
+.info-box {
+  position: absolute;
+  top: 10px;
+  left: 10px;
+  padding: 10px 20px;
+  background-color: rgba(0, 0, 0, 0.7);
+  border-radius: 10px;
+  width: 300px;
+  color: #7FB800;
+}
+
+.weapon-title {
+  font-size: 24px;
+  font-weight: bold;
+  text-transform: uppercase;
+  font-family: 'Georgia', serif;
+  margin-bottom: 10px;
+}
+
+.weapon-class {
+  font-size: 16px;
+  margin-bottom: 5px;
+  font-style: italic;
+  opacity: 0.8;
+}
+
+.weapon-desc {
+  font-size: 14px;
+  opacity: 0.9;
+}

@@ -1,0 +1,1286 @@
+{
+  "weapons": [
+    {
+      "class": "SMG",
+      "description": "Rapid-fire submachine gun with an electronic pulse feedback system, maximizing close-quarters lethality.",
+      "weaponName": "Pulsar"
+    },
+    {
+      "class": "Assault Rifle",
+      "description": "Mid-range assault rifle with a charged beam focusing lens, ensuring consistent firepower.",
+      "weaponName": "Blazar"
+    },
+    {
+      "class": "Shotgun",
+      "description": "Short-barreled shotgun utilizing magnetic propulsion, delivering devastating pellet spreads.",
+      "weaponName": "Magnetar"
+    },
+    {
+      "class": "Sniper",
+      "description": "Long-range rifle with gravitational lensing scope, perfect for precision targeting.",
+      "weaponName": "Accretion"
+    },
+    {
+      "class": "Pistol",
+      "description": "Compact sidearm that accelerates bullets to warp speeds, causing delay in impact visuals.",
+      "weaponName": "Redshift"
+    },
+    {
+      "class": "Pistol",
+      "description": "Sleek, lightweight pistol with near-instant bullet velocity and minimal detection.",
+      "weaponName": "Neutrino"
+    },
+    {
+      "class": "Sniper",
+      "description": "Ultra-long range rifle equipped with starlight scope, making targets a mere parsec away.",
+      "weaponName": "Parsec"
+    },
+    {
+      "class": "SMG",
+      "description": "Submachine gun with a cosmic gas-infused chamber, creating misty tracers upon fire.",
+      "weaponName": "Nebula"
+    },
+    {
+      "class": "LMG",
+      "description": "Heavy machine gun with explosive rounds, bringing starbursting firepower to the frontline.",
+      "weaponName": "Hypernova"
+    },
+    {
+      "class": "Melee",
+      "description": "Compact melee weapon harnessing a miniature black hole, pulling enemies in close for a fatal strike.",
+      "weaponName": "Singularity"
+    },
+    {
+      "class": "Melee",
+      "description": "Whip-like weapon which elongates upon strike, tangling and pulling enemies into its grasp.",
+      "weaponName": "Spaghettification"
+    },
+    {
+      "class": "Shotgun",
+      "description": "Powerful shotgun with radiant explosive pellets, illuminating the battlefield with each shot.",
+      "weaponName": "Supernova"
+    },
+    {
+      "class": "LMG",
+      "description": "Light machine gun emitting intense radiation, overheating enemies in its path.",
+      "weaponName": "Quasar"
+    },
+    {
+      "class": "Assault Rifle",
+      "description": "Versatile rifle calibrated for extraterrestrial environments, ensuring dominance on any terrain.",
+      "weaponName": "Exoplanet"
+    },
+    {
+      "class": "Sniper",
+      "description": "Precision rifle with solar wind compensator, allowing for shots that brush the sun.",
+      "weaponName": "Heliopause"
+    },
+    {
+      "class": "Assault Rifle",
+      "description": "Rifle designed with the cosmos in mind, with a patterned aesthetic and stellar performance.",
+      "weaponName": "Cosmology"
+    },
+    {
+      "class": "SMG",
+      "description": "Stealth submachine gun that absorbs light, making it nearly invisible in dim conditions.",
+      "weaponName": "Dark matter"
+    },
+    {
+      "class": "Shotgun",
+      "description": "Gravity-enhanced shotgun, pulling enemies into its concentrated pellet path.",
+      "weaponName": "Graviton"
+    },
+    {
+      "class": "LMG",
+      "description": "Rapid-fire machine gun with expanding rounds, covering a larger area upon impact.",
+      "weaponName": "Inflation"
+    },
+    {
+      "class": "Pistol",
+      "description": "Sidearm with icy aesthetics, freezing targets upon a successful hit.",
+      "weaponName": "Oort cloud"
+    },
+    {
+      "class": "Assault Rifle",
+      "description": "Rifle forged from cosmic elements, bringing the power of star formation to your hands.",
+      "weaponName": "Stellar nucleosynthesis"
+    },
+    {
+      "class": "Pistol",
+      "description": "Hyper-speed sidearm, firing bullets that seem to precede the trigger pull.",
+      "weaponName": "Tachyon"
+    },
+    {
+      "class": "SMG",
+      "description": "Compact submachine gun with intense firepower, erupting like a collapsing star.",
+      "weaponName": "White dwarf"
+    },
+    {
+      "class": "Sniper",
+      "description": "Elegantly crafted rifle that harnesses the zodiac's energy, guiding bullets to their fated targets.",
+      "weaponName": "Zodiacal light"
+    },
+    {
+      "class": "Shotgun",
+      "description": "Shotgun adorned with space rock fragments, scattering asteroid-like pellets upon fire.",
+      "weaponName": "Kuiper belt"
+    },
+    {
+      "class": "Melee",
+      "description": "Melee weapon rooted in cosmic origins, delivering universe-shaping blows.",
+      "weaponName": "Baryogenesis"
+    },
+    {
+      "class": "Pistol",
+      "description": "Vibrant sidearm channeling solar layers, burning targets with its fiery shots.",
+      "weaponName": "Chromosphere"
+    },
+    {
+      "class": "Assault Rifle",
+      "description": "Rifle with an elliptical trajectory system, curving bullets for unpredictable fire patterns.",
+      "weaponName": "Ellipticity"
+    },
+    {
+      "class": "SMG",
+      "description": "Submachine gun with a radiant halo sight, highlighting and dispatching threats with cosmic grace.",
+      "weaponName": "Galactic halo"
+    },
+    {
+      "class": "LMG",
+      "description": "Uniform-firing machine gun, delivering consistent damage across all ranges.",
+      "weaponName": "Isotropic"
+    },
+    {
+      "class": "Sniper",
+      "description": "Sniper rifle with adaptive lighting, adjusting brightness based on environmental needs.",
+      "weaponName": "Light curve"
+    },
+    {
+      "class": "Sniper",
+      "description": "Precision rifle that focuses on distant targets, bending light around obstacles for a clear shot.",
+      "weaponName": "Microlensing"
+    },
+    {
+      "class": "Shotgun",
+      "description": "Bright and explosive shotgun, illuminating foes with each powerful burst.",
+      "weaponName": "Nova"
+    },
+    {
+      "class": "SMG",
+      "description": "Stealthy submachine gun that masks its fire, revealing enemies while staying concealed.",
+      "weaponName": "Occultation"
+    },
+    {
+      "class": "Melee",
+      "description": "Twin-bladed weapon representing left and right-handedness, ensuring adaptability in close combat.",
+      "weaponName": "Chirality"
+    },
+    {
+      "class": "Assault Rifle",
+      "description": "Rifle with changeable firing patterns, adapting its structure based on combat needs.",
+      "weaponName": "Isomer"
+    },
+    {
+      "class": "Pistol",
+      "description": "Quick-reaction sidearm that accelerates combat potential upon drawing, ensuring rapid response.",
+      "weaponName": "Catalysis"
+    },
+    {
+      "class": "Shotgun",
+      "description": "Underground-inspired shotgun, delivering dirt-blasting shots that disorient enemies.",
+      "weaponName": "Mole"
+    },
+    {
+      "class": "Pistol",
+      "description": "Pistol that bonds with user's style, adjusting its firepower based on rhythm and flow.",
+      "weaponName": "Valence"
+    },
+    {
+      "class": "Assault Rifle",
+      "description": "Rifle constructed with layered polymers, ensuring lightweight handling with sturdy firepower.",
+      "weaponName": "Polymer"
+    },
+    {
+      "class": "SMG",
+      "description": "Rapid-firing submachine gun that breaks down enemy defenses with biotic-infused bullets.",
+      "weaponName": "Enzyme"
+    },
+    {
+      "class": "Pistol",
+      "description": "Corrosive sidearm that neutralizes threats with its basic, yet effective, chemical rounds.",
+      "weaponName": "Alkali"
+    },
+    {
+      "class": "Shotgun",
+      "description": "Water-repelling shotgun, ensuring consistent performance in wet conditions while delivering splash damage.",
+      "weaponName": "Hydrophobic"
+    },
+    {
+      "class": "LMG",
+      "description": "Heavy machine gun that separates enemy ranks with charged, electric rounds.",
+      "weaponName": "Electrolysis"
+    },
+    {
+      "class": "Sniper",
+      "description": "Sniper rifle that seeks out enemy cores, ensuring maximum damage on impact.",
+      "weaponName": "Nucleophile"
+    },
+    {
+      "class": "Assault Rifle",
+      "description": "Oxidation-reduction rifle, toggling between high-octane aggression and defensive suppressive fire.",
+      "weaponName": "Redox"
+    },
+    {
+      "class": "Pistol",
+      "description": "Radioactive sidearm that emits low-level radiation, weakening enemies over time.",
+      "weaponName": "Isotope"
+    },
+    {
+      "class": "LMG",
+      "description": "Machine gun infused with rare earth metals, boasting unique properties with every round.",
+      "weaponName": "Lanthanides"
+    },
+    {
+      "class": "Melee",
+      "description": "Binding melee weapon that latches onto enemies, pulling them closer for a finishing blow.",
+      "weaponName": "Ligand"
+    },
+    {
+      "class": "Sniper",
+      "description": "Analytical rifle that calculates bullet weight and charge, optimizing for distance and penetration.",
+      "weaponName": "Mass spectrometry"
+    },
+    {
+      "class": "Assault Rifle",
+      "description": "Rifle with revolving chambers, providing a constant cycle of high-velocity rounds.",
+      "weaponName": "Orbital"
+    },
+    {
+      "class": "Pistol",
+      "description": "Bio-enhanced pistol, injecting venomous peptides into targets, causing delayed reactions.",
+      "weaponName": "Peptide"
+    },
+    {
+      "class": "SMG",
+      "description": "Subatomic submachine gun, leveraging quantum mechanics for unpredictable bullet trajectories.",
+      "weaponName": "Quantum dot"
+    },
+    {
+      "class": "Shotgun",
+      "description": "Ionizing shotgun that breaks molecular bonds, causing enemies to disintegrate upon impact.",
+      "weaponName": "Radiolysis"
+    },
+    {
+      "class": "LMG",
+      "description": "Center-balanced machine gun with dual firing modes, adjusting to the combat environment's symmetry.",
+      "weaponName": "Stereocenter"
+    },
+    {
+      "class": "Sniper",
+      "description": "Precision rifle that focuses on distant targets, bending light around obstacles for a clear shot.",
+      "weaponName": "Microlensing"
+    },
+    {
+      "class": "Shotgun",
+      "description": "Bright and explosive shotgun, illuminating foes with each powerful burst.",
+      "weaponName": "Nova"
+    },
+    {
+      "class": "SMG",
+      "description": "Stealthy submachine gun that masks its fire, revealing enemies while staying concealed.",
+      "weaponName": "Occultation"
+    },
+    {
+      "class": "Melee",
+      "description": "Twin-bladed weapon representing left and right-handedness, ensuring adaptability in close combat.",
+      "weaponName": "Chirality"
+    },
+    {
+      "class": "Assault Rifle",
+      "description": "Rifle with changeable firing patterns, adapting its structure based on combat needs.",
+      "weaponName": "Isomer"
+    },
+    {
+      "class": "Pistol",
+      "description": "Quick-reaction sidearm that accelerates combat potential upon drawing, ensuring rapid response.",
+      "weaponName": "Catalysis"
+    },
+    {
+      "class": "Shotgun",
+      "description": "Underground-inspired shotgun, delivering dirt-blasting shots that disorient enemies.",
+      "weaponName": "Mole"
+    },
+    {
+      "class": "Pistol",
+      "description": "Pistol that bonds with user's style, adjusting its firepower based on rhythm and flow.",
+      "weaponName": "Valence"
+    },
+    {
+      "class": "Assault Rifle",
+      "description": "Rifle constructed with layered polymers, ensuring lightweight handling with sturdy firepower.",
+      "weaponName": "Polymer"
+    },
+    {
+      "class": "SMG",
+      "description": "Rapid-firing submachine gun that breaks down enemy defenses with biotic-infused bullets.",
+      "weaponName": "Enzyme"
+    },
+    {
+      "class": "Pistol",
+      "description": "Corrosive sidearm that neutralizes threats with its basic, yet effective, chemical rounds.",
+      "weaponName": "Alkali"
+    },
+    {
+      "class": "Shotgun",
+      "description": "Water-repelling shotgun, ensuring consistent performance in wet conditions while delivering splash damage.",
+      "weaponName": "Hydrophobic"
+    },
+    {
+      "class": "LMG",
+      "description": "Heavy machine gun that separates enemy ranks with charged, electric rounds.",
+      "weaponName": "Electrolysis"
+    },
+    {
+      "class": "Sniper",
+      "description": "Sniper rifle that seeks out enemy cores, ensuring maximum damage on impact.",
+      "weaponName": "Nucleophile"
+    },
+    {
+      "class": "Assault Rifle",
+      "description": "Oxidation-reduction rifle, toggling between high-octane aggression and defensive suppressive fire.",
+      "weaponName": "Redox"
+    },
+    {
+      "class": "Pistol",
+      "description": "Radioactive sidearm that emits low-level radiation, weakening enemies over time.",
+      "weaponName": "Isotope"
+    },
+    {
+      "class": "LMG",
+      "description": "Machine gun infused with rare earth metals, boasting unique properties with every round.",
+      "weaponName": "Lanthanides"
+    },
+    {
+      "class": "Melee",
+      "description": "Binding melee weapon that latches onto enemies, pulling them closer for a finishing blow.",
+      "weaponName": "Ligand"
+    },
+    {
+      "class": "Sniper",
+      "description": "Analytical rifle that calculates bullet weight and charge, optimizing for distance and penetration.",
+      "weaponName": "Mass spectrometry"
+    },
+    {
+      "class": "Assault Rifle",
+      "description": "Rifle with revolving chambers, providing a constant cycle of high-velocity rounds.",
+      "weaponName": "Orbital"
+    },
+    {
+      "class": "Pistol",
+      "description": "Bio-enhanced pistol, injecting venomous peptides into targets, causing delayed reactions.",
+      "weaponName": "Peptide"
+    },
+    {
+      "class": "SMG",
+      "description": "Subatomic submachine gun, leveraging quantum mechanics for unpredictable bullet trajectories.",
+      "weaponName": "Quantum dot"
+    },
+    {
+      "class": "Shotgun",
+      "description": "Ionizing shotgun that breaks molecular bonds, causing enemies to disintegrate upon impact.",
+      "weaponName": "Radiolysis"
+    },
+    {
+      "class": "LMG",
+      "description": "Center-balanced machine gun with dual firing modes, adjusting to the combat environment's symmetry.",
+      "weaponName": "Stereocenter"
+    },
+    {
+      "class": "Pistol",
+      "description": "Precision sidearm that adjusts its firepower based on opponent's resistance, ensuring optimal damage.",
+      "weaponName": "Titration"
+    },
+    {
+      "class": "Shotgun",
+      "description": "Slow-reloading shotgun that delivers thick, impactful rounds, hindering enemy movements.",
+      "weaponName": "Viscosity"
+    },
+    {
+      "class": "SMG",
+      "description": "Lightweight submachine gun with porous rounds, absorbing enemy defenses upon impact.",
+      "weaponName": "Xerogel"
+    },
+    {
+      "class": "Assault Rifle",
+      "description": "Rifle with crystalline structure bullets, filtering out enemy armor with each shot.",
+      "weaponName": "Zeolite"
+    },
+    {
+      "class": "LMG",
+      "description": "Machine gun harnessing radioactive elements, causing lasting damage over time.",
+      "weaponName": "Actinide"
+    },
+    {
+      "class": "Sniper",
+      "description": "Rifle with advanced trajectory calculation, ensuring bullet path predictability.",
+      "weaponName": "Kinematics"
+    },
+    {
+      "class": "Shotgun",
+      "description": "Heat-powered shotgun, converting ambient temperature into explosive shot power.",
+      "weaponName": "Thermodynamics"
+    },
+    {
+      "class": "Pistol",
+      "description": "Digitally-designed sidearm with adaptive ergonomics, fitting any user's combat style.",
+      "weaponName": "CAD"
+    },
+    {
+      "class": "Melee",
+      "description": "Flexible melee weapon with high-tensile strength, snapping back to position after each strike.",
+      "weaponName": "Tensile"
+    },
+    {
+      "class": "Assault Rifle",
+      "description": "Rifle that generates charge upon handling, electrifying foes with each round.",
+      "weaponName": "Piezoelectric"
+    },
+    {
+      "class": "SMG",
+      "description": "Submachine gun leveraging microscopic tech, enhancing bullet penetration and adaptability.",
+      "weaponName": "Nanotechnology"
+    },
+    {
+      "class": "Sniper",
+      "description": "Rifle with frequency-domain scope, visualizing enemy movements in waves for precision targeting.",
+      "weaponName": "Fourier transform"
+    },
+    {
+      "class": "Pistol",
+      "description": "Sidearm with internal stabilization, ensuring shots remain on target despite rapid movement.",
+      "weaponName": "Gyroscope"
+    },
+    {
+      "class": "Shotgun",
+      "description": "Water-powered shotgun delivering high-pressure blasts, pushing enemies back.",
+      "weaponName": "Hydraulic"
+    },
+    {
+      "class": "LMG",
+      "description": "Heavy machine gun that restricts enemy advances, creating an imposing barrier of fire.",
+      "weaponName": "Impedance"
+    },
+    {
+      "class": "Assault Rifle",
+      "description": "Rifle with electrically-resistive rounds, heating up and burning targets upon impact.",
+      "weaponName": "Joule heating"
+    },
+    {
+      "class": "Pistol",
+      "description": "Sidearm that harnesses movement, converting motion into enhanced bullet velocity.",
+      "weaponName": "Kinetic energy"
+    },
+    {
+      "class": "LMG",
+      "description": "Durable machine gun designed to handle heavy combat loads, perfect for frontline suppression.",
+      "weaponName": "Load-bearing"
+    },
+    {
+      "class": "SMG",
+      "description": "Micro-mechanical submachine gun, leveraging tiny components for rapid-fire capability.",
+      "weaponName": "MEMS"
+    },
+    {
+      "class": "Sniper",
+      "description": "Networked rifle that pinpoints enemy weak spots, ensuring critical hits.",
+      "weaponName": "Node"
+    },
+    {
+      "class": "Pistol",
+      "description": "Electrically-calibrated sidearm, adjusting voltage and current for optimal firepower.",
+      "weaponName": "Ohm's law"
+    },
+    {
+      "class": "Shotgun",
+      "description": "Air-powered shotgun, delivering gusty blasts with a silent yet forceful impact.",
+      "weaponName": "Pneumatic"
+    },
+    {
+      "class": "Assault Rifle",
+      "description": "Rifle that defies barriers, with bullets seemingly passing through obstacles unimpeded.",
+      "weaponName": "Quantum tunneling"
+    },
+    {
+      "class": "SMG",
+      "description": "Submachine gun that vibrates at enemy armor's natural frequency, weakening it with every shot.",
+      "weaponName": "Resonant frequency"
+    },
+    {
+      "class": "LMG",
+      "description": "Machine gun firing compacted powder rounds, which explode into shrapnel upon impact.",
+      "weaponName": "Sintering"
+    },
+    {
+      "class": "Melee",
+      "description": "Twisting melee weapon that applies rotational force, ensuring devastating blows.",
+      "weaponName": "Torque"
+    },
+    {
+      "class": "Sniper",
+      "description": "Single-focus rifle that narrows in on targets, ensuring unmatched precision in a straight line.",
+      "weaponName": "Uniaxial"
+    },
+    {
+      "class": "Assault Rifle",
+      "description": "Rifle with a dynamic bullet path, adjusting trajectory based on enemy movements.",
+      "weaponName": "Vector field"
+    },
+    {
+      "class": "Pistol",
+      "description": "Efficiency-optimized sidearm, expending minimal energy for maximum impact.",
+      "weaponName": "Work function"
+    },
+    {
+      "class": "Shotgun",
+      "description": "Robust shotgun that refuses to break, delivering powerful shots without faltering.",
+      "weaponName": "Yield strength"
+    },
+    {
+      "class": "Pistol",
+      "description": "Precision sidearm that adjusts its firepower based on opponent's resistance, ensuring optimal damage.",
+      "weaponName": "Titration"
+    },
+    {
+      "class": "Shotgun",
+      "description": "Slow-reloading shotgun that delivers thick, impactful rounds, hindering enemy movements.",
+      "weaponName": "Viscosity"
+    },
+    {
+      "class": "SMG",
+      "description": "Lightweight submachine gun with porous rounds, absorbing enemy defenses upon impact.",
+      "weaponName": "Xerogel"
+    },
+    {
+      "class": "Assault Rifle",
+      "description": "Rifle with crystalline structure bullets, filtering out enemy armor with each shot.",
+      "weaponName": "Zeolite"
+    },
+    {
+      "class": "LMG",
+      "description": "Machine gun harnessing radioactive elements, causing lasting damage over time.",
+      "weaponName": "Actinide"
+    },
+    {
+      "class": "Sniper",
+      "description": "Rifle with advanced trajectory calculation, ensuring bullet path predictability.",
+      "weaponName": "Kinematics"
+    },
+    {
+      "class": "Shotgun",
+      "description": "Heat-powered shotgun, converting ambient temperature into explosive shot power.",
+      "weaponName": "Thermodynamics"
+    },
+    {
+      "class": "Pistol",
+      "description": "Digitally-designed sidearm with adaptive ergonomics, fitting any user's combat style.",
+      "weaponName": "CAD"
+    },
+    {
+      "class": "Melee",
+      "description": "Flexible melee weapon with high-tensile strength, snapping back to position after each strike.",
+      "weaponName": "Tensile"
+    },
+    {
+      "class": "Assault Rifle",
+      "description": "Rifle that generates charge upon handling, electrifying foes with each round.",
+      "weaponName": "Piezoelectric"
+    },
+    {
+      "class": "SMG",
+      "description": "Submachine gun leveraging microscopic tech, enhancing bullet penetration and adaptability.",
+      "weaponName": "Nanotechnology"
+    },
+    {
+      "class": "Sniper",
+      "description": "Rifle with frequency-domain scope, visualizing enemy movements in waves for precision targeting.",
+      "weaponName": "Fourier transform"
+    },
+    {
+      "class": "Pistol",
+      "description": "Sidearm with internal stabilization, ensuring shots remain on target despite rapid movement.",
+      "weaponName": "Gyroscope"
+    },
+    {
+      "class": "Shotgun",
+      "description": "Water-powered shotgun delivering high-pressure blasts, pushing enemies back.",
+      "weaponName": "Hydraulic"
+    },
+    {
+      "class": "LMG",
+      "description": "Heavy machine gun that restricts enemy advances, creating an imposing barrier of fire.",
+      "weaponName": "Impedance"
+    },
+    {
+      "class": "Assault Rifle",
+      "description": "Rifle with electrically-resistive rounds, heating up and burning targets upon impact.",
+      "weaponName": "Joule heating"
+    },
+    {
+      "class": "Pistol",
+      "description": "Sidearm that harnesses movement, converting motion into enhanced bullet velocity.",
+      "weaponName": "Kinetic energy"
+    },
+    {
+      "class": "LMG",
+      "description": "Durable machine gun designed to handle heavy combat loads, perfect for frontline suppression.",
+      "weaponName": "Load-bearing"
+    },
+    {
+      "class": "SMG",
+      "description": "Micro-mechanical submachine gun, leveraging tiny components for rapid-fire capability.",
+      "weaponName": "MEMS"
+    },
+    {
+      "class": "Sniper",
+      "description": "Networked rifle that pinpoints enemy weak spots, ensuring critical hits.",
+      "weaponName": "Node"
+    },
+    {
+      "class": "Pistol",
+      "description": "Electrically-calibrated sidearm, adjusting voltage and current for optimal firepower.",
+      "weaponName": "Ohm's law"
+    },
+    {
+      "class": "Shotgun",
+      "description": "Air-powered shotgun, delivering gusty blasts with a silent yet forceful impact.",
+      "weaponName": "Pneumatic"
+    },
+    {
+      "class": "Assault Rifle",
+      "description": "Rifle that defies barriers, with bullets seemingly passing through obstacles unimpeded.",
+      "weaponName": "Quantum tunneling"
+    },
+    {
+      "class": "SMG",
+      "description": "Submachine gun that vibrates at enemy armor's natural frequency, weakening it with every shot.",
+      "weaponName": "Resonant frequency"
+    },
+    {
+      "class": "LMG",
+      "description": "Machine gun firing compacted powder rounds, which explode into shrapnel upon impact.",
+      "weaponName": "Sintering"
+    },
+    {
+      "class": "Melee",
+      "description": "Twisting melee weapon that applies rotational force, ensuring devastating blows.",
+      "weaponName": "Torque"
+    },
+    {
+      "class": "Sniper",
+      "description": "Single-focus rifle that narrows in on targets, ensuring unmatched precision in a straight line.",
+      "weaponName": "Uniaxial"
+    },
+    {
+      "class": "Assault Rifle",
+      "description": "Rifle with a dynamic bullet path, adjusting trajectory based on enemy movements.",
+      "weaponName": "Vector field"
+    },
+    {
+      "class": "Pistol",
+      "description": "Efficiency-optimized sidearm, expending minimal energy for maximum impact.",
+      "weaponName": "Work function"
+    },
+    {
+      "class": "Shotgun",
+      "description": "Robust shotgun that refuses to break, delivering powerful shots without faltering.",
+      "weaponName": "Yield strength"
+    },
+    {
+      "class": "Assault Rifle",
+      "description": "Rifle that balances the combat environment, ensuring a consistent temperature of conflict.",
+      "weaponName": "Zeroth law",
+      "preferredTextureId": 15
+    },
+    {
+      "class": "Pistol",
+      "description": "Responsive sidearm that reacts to user's combat needs, adjusting firepower in real-time.",
+      "weaponName": "Actuator"
+    },
+    {
+      "class": "Shotgun",
+      "description": "Powerful shotgun that causes enemies to falter under pressure, delivering overwhelming force.",
+      "weaponName": "Buckling"
+    },
+    {
+      "class": "Melee",
+      "description": "Spinning melee weapon that throws enemies outward upon impact, maximizing damage radius.",
+      "weaponName": "Centrifugal force"
+    },
+    {
+      "class": "SMG",
+      "description": "Flexible submachine gun that molds to the user's style, stretching its capabilities in combat.",
+      "weaponName": "Ductility"
+    },
+    {
+      "class": "Sniper",
+      "description": "Adaptable sniper rifle that rebounds from environmental factors, ensuring pinpoint accuracy.",
+      "weaponName": "Elastic modulus"
+    },
+    {
+      "class": "LMG",
+      "description": "Relentless machine gun that wears enemies down, causing them to tire faster under its barrage.",
+      "weaponName": "Fatigue"
+    },
+    {
+      "class": "Shotgun",
+      "description": "Sturdy shotgun inspired by heavy structures, providing a solid foundation in close combat.",
+      "weaponName": "Gantry"
+    },
+    {
+      "class": "Pistol",
+      "description": "Sidearm that remembers past encounters, adjusting its strategy based on previous engagements.",
+      "weaponName": "Hysteresis"
+    },
+    {
+      "class": "Assault Rifle",
+      "description": "Rifle that maintains its momentum, continuing its assault regardless of external forces.",
+      "weaponName": "Inertia"
+    },
+    {
+      "class": "Melee",
+      "description": "Tool-inspired melee weapon, perfect for quick adjustments in hand-to-hand combat.",
+      "weaponName": "Jig"
+    },
+    {
+      "class": "SMG",
+      "description": "Subzero submachine gun, freezing enemies in their tracks with chilled rounds.",
+      "weaponName": "Kelvin"
+    },
+    {
+      "class": "Sniper",
+      "description": "Rifle with streamlined bullets, ensuring smooth, undisturbed trajectories.",
+      "weaponName": "Laminar flow"
+    },
+    {
+      "class": "LMG",
+      "description": "Machine gun that resists rotational changes, providing consistent, steady fire.",
+      "weaponName": "Moment of inertia"
+    },
+    {
+      "class": "Pistol",
+      "description": "High-frequency sidearm that doubles its rate of fire, catching enemies off-guard.",
+      "weaponName": "Nyquist frequency",
+      "preferredTextureId": 36
+    },
+    {
+      "class": "Shotgun",
+      "description": "Chaotic shotgun that defies logic, delivering unpredictable yet devastating shots.",
+      "weaponName": "Absurdism",
+      "preferredTextureId": 37
+    },
+    {
+      "class": "Sniper",
+      "description": "Elegantly designed rifle, blending beauty with deadly precision.",
+      "weaponName": "Aesthetics"
+    },
+    {
+      "class": "Assault Rifle",
+      "description": "Rifle that questions every shot, allowing users to adjust mid-fire for optimal outcomes.",
+      "weaponName": "Agnosticism"
+    },
+    {
+      "class": "Pistol",
+      "description": "Sidearm that supports team efforts, providing buffs to nearby allies with every shot.",
+      "weaponName": "Altruism"
+    },
+    {
+      "class": "SMG",
+      "description": "Submachine gun that sows disorder, causing confusion among enemy ranks.",
+      "weaponName": "Anomie"
+    },
+    {
+      "class": "Melee",
+      "description": "Unconventional melee weapon that challenges the nature of combat, blending illusion with reality.",
+      "weaponName": "Antirealism"
+    },
+    {
+      "class": "Sniper",
+      "description": "Intuitive sniper rifle that predicts enemy movement, leading shots for perfect hits.",
+      "weaponName": "A priori"
+    },
+    {
+      "class": "Assault Rifle",
+      "description": "Classic rifle design inspired by ancient wisdom, blending old-world tactics with modern firepower.",
+      "weaponName": "Aristotelianism",
+      "preferredTextureId": 4
+    },
+    {
+      "class": "LMG",
+      "description": "Duty-bound machine gun that adheres to a strict code, ensuring consistent, righteous firepower.",
+      "weaponName": "Categorical imperative"
+    },
+    {
+      "class": "Pistol",
+      "description": "Sidearm that links cause and effect, delivering consequences with each pull of the trigger.",
+      "weaponName": "Causality"
+    },
+    {
+      "class": "Shotgun",
+      "description": "Outcome-focused shotgun, adjusting its firepower based on the situation's needs.",
+      "weaponName": "Consequentialism"
+    },
+    {
+      "class": "SMG",
+      "description": "Ethics-driven submachine gun that adheres to a strict moral code, ensuring just combat.",
+      "weaponName": "Deontological"
+    },
+    {
+      "class": "Assault Rifle",
+      "description": "A rifle that adapts its firing mode based on combat scenarios, turning every engagement into a dialogue of bullets.",
+      "weaponName": "Dialectic"
+    },
+    {
+      "class": "Pistol",
+      "description": "Double-barreled sidearm allowing for simultaneous shots of varying ammo types, emphasizing the duality of combat.",
+      "weaponName": "Dualism"
+    },
+    {
+      "class": "Sniper",
+      "description": "Precision rifle that enhances clarity with each successive hit, grounding its user in the reality of the battlefield.",
+      "weaponName": "Empiricism",
+      "preferredTextureId": 10
+    },
+    {
+      "class": "SMG",
+      "description": "Submachine gun that boosts player morale, granting incremental health regeneration with each successful burst.",
+      "weaponName": "Eudaemonia"
+    },
+    {
+      "class": "Melee",
+      "description": "A close-combat blade that causes enemies to question their purpose, slowing them down upon impact.",
+      "weaponName": "Existentialism"
+    },
+    {
+      "class": "Shotgun",
+      "description": "Deceptive shotgun that occasionally fires illusions, causing enemies to misjudge its actual range and power.",
+      "weaponName": "Fallacy"
+    },
+    {
+      "class": "LMG",
+      "description": "Machine gun that revels in the chaos, granting brief invulnerability upon multiple successive kills.",
+      "weaponName": "Hedonism"
+    },
+    {
+      "class": "Sniper",
+      "description": "Rifle with interpretive optics, highlighting enemy weak points after focusing on them for a short duration.",
+      "weaponName": "Hermeneutics"
+    },
+    {
+      "class": "Assault Rifle",
+      "description": "Rifle that enhances bullet damage when health is full, emphasizing the pursuit of combat perfection.",
+      "weaponName": "Idealism"
+    },
+    {
+      "class": "Pistol",
+      "description": "Mystical sidearm with rounds that occasionally silence enemy abilities, making them indescribable in battle.",
+      "weaponName": "Ineffable"
+    },
+    {
+      "class": "Shotgun",
+      "description": "A unique shotgun that alternates between slug and buckshot rounds, constantly altering the battlefield dynamic.",
+      "weaponName": "Juxtaposition"
+    },
+    {
+      "class": "Melee",
+      "description": "A combat knife that grants a moral shield, reducing damage taken from enemies that were not engaged first.",
+      "weaponName": "Kantian",
+      "preferredTextureId": 13
+    },
+    {
+      "class": "SMG",
+      "description": "Submachine gun that frees its user from reload constraints, having a chance to automatically refill the magazine on kill.",
+      "weaponName": "Libertarianism"
+    },
+    {
+      "class": "LMG",
+      "description": "Machine gun that drops additional loot upon kills, reflecting the desire for material gain.",
+      "weaponName": "Materialism"
+    },
+    {
+      "class": "Pistol",
+      "description": "Sidearm that nullifies enemy healing for a brief period, embracing the void of recovery.",
+      "weaponName": "Nihilism",
+      "preferredTextureId": 19
+    },
+    {
+      "class": "Assault Rifle",
+      "description": "Rifle that increases damage when aiming at objective points, prioritizing the mission above all.",
+      "weaponName": "Objectivism"
+    },
+    {
+      "class": "Sniper",
+      "description": "Rifle that phases through barriers on full-charge shots, questioning the nature of battlefield obstacles.",
+      "weaponName": "Ontology"
+    },
+    {
+      "class": "Shotgun",
+      "description": "Shotgun that alters its firing pattern based on player movement, mirroring the conscious experience of the user.",
+      "weaponName": "Phenomenology"
+    },
+    {
+      "class": "SMG",
+      "description": "Submachine gun that boosts accuracy the longer it's fired, fostering a trust in observable combat patterns.",
+      "weaponName": "Positivism"
+    },
+    {
+      "class": "LMG",
+      "description": "Machine gun that adjusts its rate of fire based on the number of enemies nearby, adapting to the situation's context.",
+      "weaponName": "Relativism"
+    },
+    {
+      "class": "Melee",
+      "description": "A bladed weapon that challenges its foes, causing confusion and a brief inability to retaliate after a successful strike.",
+      "weaponName": "Socratic method"
+    },
+    {
+      "class": "Sniper",
+      "description": "A rifle that becomes more accurate the longer a target is aimed at, embodying a purpose-driven approach.",
+      "weaponName": "Teleology",
+      "preferredTextureId": 14
+    },
+    {
+      "class": "LMG",
+      "description": "Machine gun that shares ammo with nearby allies, ensuring the greatest good for the entire team.",
+      "weaponName": "Utilitarianism"
+    },
+    {
+      "class": "Assault Rifle",
+      "description": "Rifle that rewards players for honorable actions, enhancing damage when avoiding hits on downed enemies.",
+      "weaponName": "Virtue ethics"
+    },
+    {
+      "class": "Shotgun",
+      "description": "A shotgun that adapts its firing pattern based on the surrounding terrain, mirroring the world-view of its environment.",
+      "weaponName": "Weltanschauung"
+    },
+    {
+      "class": "SMG",
+      "description": "Submachine gun that does increased damage to new or previously unencountered enemy types in a session.",
+      "weaponName": "Xenophobia"
+    },
+    {
+      "class": "Melee",
+      "description": "Blade infused with the spirit of the times, gaining power based on the in-game time of day.",
+      "weaponName": "Zeitgeist"
+    },
+    {
+      "class": "Sniper",
+      "description": "A fortified rifle that grants additional defense when aiming from higher ground, emulating its citadel inspiration.",
+      "weaponName": "Acropolis"
+    },
+    {
+      "class": "Shotgun",
+      "description": "Wide-spread shotgun whose echoes disorient enemies, mimicking the acoustics of ancient arenas.",
+      "weaponName": "Amphitheater"
+    },
+    {
+      "class": "Pistol",
+      "description": "Sidearm of leaders, boosting team morale and granting a temporary buff to nearby allies with each critical hit.",
+      "weaponName": "Archon",
+      "preferredTextureId": 3
+    },
+    {
+      "class": "LMG",
+      "description": "Raw-power machine gun that gains momentum and fire rate as it racks up continuous kills.",
+      "weaponName": "Barbarian",
+      "preferredTextureId": 5
+    },
+    {
+      "class": "Melee",
+      "description": "Grand hammer that, upon striking, creates a protective aura for allies in its proximity.",
+      "weaponName": "Basilica",
+      "preferredTextureId": 17
+    },
+    {
+      "class": "Assault Rifle",
+      "description": "Battle-hardened rifle that leaves a trace of salt on hit, slowing down enemies and recalling the historic city's fate.",
+      "weaponName": "Carthage"
+    },
+    {
+      "class": "SMG",
+      "description": "Swift submachine gun that increases player's movement speed with each successive hit, harnessing the momentum of ancient races.",
+      "weaponName": "Charioteer"
+    },
+    {
+      "class": "Sniper",
+      "description": "Mystical rifle that reveals the next enemy location upon a headshot, echoing the prophetic insights of Delphi.",
+      "weaponName": "Delphic oracle"
+    },
+    {
+      "class": "Pistol",
+      "description": "Heavenly sidearm that grants a brief state of invulnerability when health drops critically low.",
+      "weaponName": "Elysium"
+    },
+    {
+      "class": "Shotgun",
+      "description": "Strategic shotgun that, when fired, provides a temporary communication boost, allowing for clearer team chat.",
+      "weaponName": "Forum"
+    },
+    {
+      "class": "Melee",
+      "description": "Roman-inspired short sword that allows for rapid slashes, ideal for close-quarter engagements.",
+      "weaponName": "Gladius"
+    },
+    {
+      "class": "Sniper",
+      "description": "Ancient rifle that marks enemies on hit, revealing them to the entire team for a short duration.",
+      "weaponName": "Hieroglyph"
+    },
+    {
+      "class": "LMG",
+      "description": "Legendary machine gun that temporarily revives the user on a multi-kill streak, a nod to the undying soldiers of history.",
+      "weaponName": "Immortals"
+    },
+    {
+      "class": "Pistol",
+      "description": "Dual-faced sidearm that can swiftly switch between two ammo types, reflecting its two-headed inspiration.",
+      "weaponName": "Janiform"
+    },
+    {
+      "class": "Melee",
+      "description": "Statuesque blade that petrifies enemies upon a critical hit, mirroring the sculpted figures of ancient Greece.",
+      "weaponName": "Kouroi"
+    },
+    {
+      "class": "Assault Rifle",
+      "description": "Learned rifle that gains accuracy the longer it's wielded in a match, echoing the educational pursuits of Aristotle's school.",
+      "weaponName": "Lyceum"
+    },
+    {
+      "class": "Shotgun",
+      "description": "Monumental shotgun that, upon killing an enemy, creates a gravestone barrier providing temporary cover.",
+      "weaponName": "Mausoleum"
+    },
+    {
+      "class": "SMG",
+      "description": "Stone-patterned submachine gun that occasionally fires flint-tipped rounds, causing bleed damage over time.",
+      "weaponName": "Neolithic"
+    },
+    {
+      "class": "LMG",
+      "description": "Elite machine gun that splits its damage, with a portion going to the nearest allies of the target, demonstrating shared power.",
+      "weaponName": "Oligarchy"
+    },
+    {
+      "class": "Sniper",
+      "description": "Ancient-paper wrapped rifle that leaves a paper trail on its shots, allowing for tracking of bullet trajectory.",
+      "weaponName": "Papyrus"
+    },
+    {
+      "class": "Shotgun",
+      "description": "Five-barreled shotgun that fires in a wide arc, mimicking the ancient ship's robust oar arrangement.",
+      "weaponName": "Quinquereme"
+    },
+    {
+      "class": "Pistol",
+      "description": "Pistol that weakens enemy language communications temporarily, disrupting their team coordination.",
+      "weaponName": "Rosetta Stone"
+    },
+    {
+      "class": "Assault Rifle",
+      "description": "Rifle that grants additional XP for protecting teammates, echoing the leadership of provincial governors.",
+      "weaponName": "Satrap"
+    },
+    {
+      "class": "SMG",
+      "description": "Triple-barreled submachine gun that gains speed with continuous fire, inspired by the ancient vessel's oars.",
+      "weaponName": "Trireme"
+    },
+    {
+      "class": "LMG",
+      "description": "Ancient-crafted machine gun with inscriptions that grant additional damage against leader-type enemies.",
+      "weaponName": "Uruk"
+    },
+    {
+      "class": "Melee",
+      "description": "Standard-bearing staff that boosts the morale and speed of nearby allies, inspired by ancient emblems.",
+      "weaponName": "Vexilloid"
+    },
+    {
+      "class": "Sniper",
+      "description": "Rifle that deals extra damage to rivals in player leaderboards, symbolizing conflicts for Alexander's empire.",
+      "weaponName": "Wars of the Diadochi"
+    },
+    {
+      "class": "Shotgun",
+      "description": "Regal shotgun with golden inlays that intimidates and briefly stuns enemies upon a close-range hit.",
+      "weaponName": "Xerxes"
+    },
+    {
+      "class": "Assault Rifle",
+      "description": "Stepped rifle that increases in accuracy as the user ascends terrain, echoing the terraced temples.",
+      "weaponName": "Ziggurat"
+    },
+    {
+      "class": "Pistol",
+      "description": "Sidearm that reveals historical points of interest on the map, illuminating ancient secrets.",
+      "weaponName": "Assyriology"
+    },
+    {
+      "class": "LMG",
+      "description": "Camel-adorned machine gun that's highly efficient in desert terrains, recalling the ancient kingdom.",
+      "weaponName": "Bactria"
+    },
+    {
+      "class": "SMG",
+      "description": "Submachine gun whose bullets etch messages on surfaces, ideal for strategic communication.",
+      "weaponName": "Cuneiform"
+    },
+    {
+      "class": "Pistol",
+      "description": "Golden pistol that drops in-game currency with each critical hit, reminiscent of ancient coinage.",
+      "weaponName": "Drachma"
+    },
+    {
+      "class": "Melee",
+      "description": "Blade that rejuvenates the wielder's health upon delivering pleasure in the form of a successful strike.",
+      "weaponName": "Epicureanism"
+    },
+    {
+      "class": "Sniper",
+      "description": "Artistic rifle with paint-like splatter, marking hit enemies for easier tracking.",
+      "weaponName": "Fresco"
+    },
+    {
+      "class": "Assault Rifle",
+      "description": "Snake-adorned rifle with a chance to petrify enemies on headshots, mirroring the mythological beast's gaze.",
+      "weaponName": "Gorgon"
+    },
+    {
+      "class": "Shotgun",
+      "description": "Ancient warrior's shotgun that forms a temporary shield around the user during a reload.",
+      "weaponName": "Hoplite"
+    },
+    {
+      "class": "SMG",
+      "description": "Babylonian-patterned submachine gun that creates a temporary portal for faster teammate traversal.",
+      "weaponName": "Ishtar Gate"
+    },
+    {
+      "class": "LMG",
+      "description": "Machine gun whose consistent fire can break down enemy barriers faster, reminiscent of the biblical city's walls.",
+      "weaponName": "Jericho"
+    },
+    {
+      "class": "Melee",
+      "description": "Lyre-shaped blade that emits harmonious sounds, disorienting nearby enemies upon a strike.",
+      "weaponName": "Kithara"
+    },
+    {
+      "class": "Pistol",
+      "description": "Maze-engraved sidearm that confuses enemies' radar upon being hit.",
+      "weaponName": "Labyrinth"
+    },
+    {
+      "class": "Assault Rifle",
+      "description": "Sun-embossed rifle that shines brighter and becomes more powerful during in-game daytime.",
+      "weaponName": "Mithraism"
+    },
+    {
+      "class": "Shotgun",
+      "description": "Ancient Egyptian shotgun that grants beauty in death, turning killed enemies into golden statues.",
+      "weaponName": "Nefer"
+    },
+    {
+      "class": "Sniper",
+      "description": "Mystical rifle that provides short glimpses into the enemy's future movements upon a successful hit.",
+      "weaponName": "Oracle"
+    },
+    {
+      "class": "LMG",
+      "description": "Temple-inspired machine gun that grants stability and accuracy when positioned on solid structures.",
+      "weaponName": "Parthenon"
+    },
+    {
+      "class": "SMG",
+      "description": "Water-channeling submachine gun that leaves trails of water, slowing enemies' movement.",
+      "weaponName": "Qanat"
+    },
+    {
+      "class": "Pistol",
+      "description": "Persuasive sidearm that has a chance to sway enemy AI to fight for you for a brief moment.",
+      "weaponName": "Rhetoric"
+    },
+    {
+      "class": "Melee",
+      "description": "Lyrically-inscribed blade that provides a poetic and swift death, with each slash creating harmonious sounds.",
+      "weaponName": "Sapphic"
+    },
+    {
+      "class": "Assault Rifle",
+      "description": "Drama-infused rifle that recreates tragic or heroic moments with random buffs or debuffs after each reload.",
+      "weaponName": "Theban plays"
+    },
+    {
+      "class": "Shotgun",
+      "description": "City-inspired shotgun that grants a home advantage, dealing more damage when close to team's spawn.",
+      "weaponName": "Ur"
+    },
+    {
+      "class": "Sniper",
+      "description": "Offering-based rifle that grants blessings in the form of random buffs with each successful prayer (kill).",
+      "weaponName": "Votive"
+    },
+    {
+      "class": "LMG",
+      "description": "Assyrian beast-themed machine gun with horns that charge up for a devastating burst fire.",
+      "weaponName": "Winged bull"
+    },
+    {
+      "class": "Melee",
+      "description": "Primitive idol-styled mace that can absorb and redistribute enemy energy or health.",
+      "weaponName": "Xoanon"
+    },
+    {
+      "class": "Pistol",
+      "description": "Historic sidearm that rotates between four distinct firing modes, each symbolizing an emperor's reign.",
+      "weaponName": "Year of the Four Emperors"
+    },
+    {
+      "class": "Assault Rifle",
+      "description": "Dualistic rifle that balances between light and dark, offering two firing modes \u2013 one pure, one corrupted.",
+      "weaponName": "Zoroastrianism",
+      "preferredTextureId": 16
+    },
+    {
+      "class": "SMG",
+      "description": "Peace-providing submachine gun that calms the wielder, granting improved aim and reduced recoil.",
+      "weaponName": "Ataraxia"
+    },
+    {
+      "class": "LMG",
+      "description": "Council chamber-themed machine gun that boosts decision-making, reducing reload and swap times.",
+      "weaponName": "Bouleuterion"
+    },
+    {
+      "class": "Sniper",
+      "description": "Ancient manuscript rifle that reveals hidden enemy locations briefly after each successful shot.",
+      "weaponName": "Codex"
+    },
+    {
+      "class": "Pistol",
+      "description": "Charismatic sidearm that, upon killing an enemy, rallies nearby allies, boosting their damage temporarily.",
+      "weaponName": "Demagogue"
+    },
+    {
+      "class": "Melee",
+      "description": "Mystical blade that foretells the future, giving a brief insight into an enemy's next move upon a strike.",
+      "weaponName": "Enigma of the Oracle"
+    },
+    {
+      "class": "Shotgun",
+      "description": "Light-refracting shotgun that blinds and disorients enemies with a burst of radiant energy upon close impact.",
+      "weaponName": "Fresnel reflection"
+    }
+  ]
+}
