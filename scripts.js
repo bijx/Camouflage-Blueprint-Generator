@@ -65,7 +65,6 @@ function applyTexture(camoId = null) {
       });
 
       loadedModel.scene.traverse(function (child) {
-        console.log(child);
         if (child.isMesh && child.name.includes('CAMO')) {
           child.material = material;
         }
@@ -95,6 +94,13 @@ async function newWeapon() {
     document.querySelector('.weapon-desc').textContent = weaponInfo.description;
 
     loadModel(weaponInfo.class); // Load the appropriate model
+
+    // Restart the fade-in animation
+    const infoBox = document.querySelector('.info-box');
+    infoBox.style.animation = 'none'; // Reset the animation
+    setTimeout(() => {
+      infoBox.style.animation = ''; // Re-apply the animation
+    }, 10); // Short delay to ensure the style update is applied
   }
 }
 
