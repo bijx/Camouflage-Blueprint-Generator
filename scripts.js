@@ -27,24 +27,6 @@ scene.add(pointLight);
 // LOAD MODEL
 const loader = new GLTFLoader();
 let loadedModel;
-// loader.load(
-//   'models/sniper.glb',
-//   function (gltf) {
-//     loadedModel = gltf;
-//     applyTexture();
-
-//     // Optionally set the scale of the model
-//     // gltf.scene.scale.set(0.9, 0.9, 0.9);
-//     gltf.scene.rotation.set(0, 180, 0);
-
-//     // Add the model to the scene
-//     scene.add(gltf.scene);
-//   },
-//   undefined,
-//   function (error) {
-//     console.error(error);
-//   }
-// );
 
 async function pickRandomWeapon() {
   try {
