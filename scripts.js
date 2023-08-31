@@ -27,24 +27,24 @@ scene.add(pointLight);
 // LOAD MODEL
 const loader = new GLTFLoader();
 let loadedModel;
-loader.load(
-  'models/sniper.glb',
-  function (gltf) {
-    loadedModel = gltf;
-    applyTexture();
+// loader.load(
+//   'models/sniper.glb',
+//   function (gltf) {
+//     loadedModel = gltf;
+//     applyTexture();
 
-    // Optionally set the scale of the model
-    // gltf.scene.scale.set(0.9, 0.9, 0.9);
-    gltf.scene.rotation.set(0, 180, 0);
+//     // Optionally set the scale of the model
+//     // gltf.scene.scale.set(0.9, 0.9, 0.9);
+//     gltf.scene.rotation.set(0, 180, 0);
 
-    // Add the model to the scene
-    scene.add(gltf.scene);
-  },
-  undefined,
-  function (error) {
-    console.error(error);
-  }
-);
+//     // Add the model to the scene
+//     scene.add(gltf.scene);
+//   },
+//   undefined,
+//   function (error) {
+//     console.error(error);
+//   }
+// );
 
 async function pickRandomWeapon() {
   try {
@@ -83,6 +83,7 @@ function applyTexture(camoId = null) {
       });
 
       loadedModel.scene.traverse(function (child) {
+        console.log(child);
         if (child.isMesh && child.name.includes('CAMO')) {
           child.material = material;
         }
@@ -117,7 +118,7 @@ async function newWeapon() {
 
 document.getElementById('generate').addEventListener('click', newWeapon);
 
-// newWeapon();
+newWeapon();
 
 function loadModel(weaponClass) {
   let modelPath;
