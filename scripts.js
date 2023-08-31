@@ -1,6 +1,8 @@
 import { GLTFLoader } from 'three/addons/loaders/GLTFLoader.js';
 import * as THREE from 'three';
 
+let currentCamoId = 1;
+
 const scene = new THREE.Scene();
 const camera = new THREE.PerspectiveCamera(
   75,
@@ -55,6 +57,7 @@ async function pickRandomWeapon() {
 
 function applyTexture(camoId = null) {
   let textureId = camoId ? camoId : Math.floor(Math.random() * 35) + 1;
+  currentCamoId = textureId;
   const textureLoader = new THREE.TextureLoader();
   const texture = textureLoader.load(
     `camos/${textureId}.png`,
@@ -147,3 +150,21 @@ function loadModel(weaponClass) {
     }
   );
 }
+
+function updateDownloadLink() {
+  // Create the path
+  const imageUrl = `./camos/${currentCamoId}.png`;
+
+  // Get the anchor element by its ID
+  const downloadLink = document.getElementById('downloadButton');
+
+  // Set the href attribute
+  downloadLink.href = imageUrl;
+
+  // Optionally set the download attribute for renaming, if desired
+  downloadLink.setAttribute('download', `camo_${currentCamoId}.png`);
+}
+
+document
+  .getElementById('download-button')
+  .addEventListener('click', updateDownloadLink);

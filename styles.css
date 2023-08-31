@@ -5,7 +5,7 @@ body {
   overflow: hidden;
   font-family: 'Orbitron', sans-serif;
   background-color: #1a1a1a;
-  color: #7FB800;
+  color: #60935D;
 }
 
 #scene {
@@ -22,11 +22,28 @@ button#generate {
   padding: 10px 20px;
   font-size: 20px;
   border: none;
-  background-color: #7FB800;
+  background-color: #60935D;
   color: #1a1a1a;
   cursor: pointer;
   transition: background-color 0.3s ease-in-out;
   border-radius: 10px;
+}
+button#download-button {
+  margin-top: 8px;
+  padding: 4px 8px;
+  font-size: 15px;
+  border: none;
+  background-color: #60935D;
+  color: #1a1a1a;
+  cursor: pointer;
+  transition: background-color 0.3s ease-in-out;
+  border-radius: 10px;
+  font-family: 'Orbitron';
+  font-weight: bold;
+}
+
+button#download-button:hover {
+  background-color: #F7B32B;
 }
 
 button#generate:hover {
@@ -59,6 +76,7 @@ button#generate:hover {
   font-weight: bold;
   text-transform: uppercase;
   margin-bottom: 10px;
+  color: #F46197;
 }
 
 .weapon-class {
@@ -67,11 +85,13 @@ button#generate:hover {
   margin-bottom: 5px;
   font-style: italic;
   opacity: 0.9;
+  color: #F7B32B;
 }
 
 .weapon-desc {
   font-size: 18px;
   opacity: 0.9;
+  color: #fff;
 }
 
 @keyframes fadeIn {
