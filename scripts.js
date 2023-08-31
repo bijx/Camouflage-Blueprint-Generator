@@ -56,7 +56,7 @@ async function pickRandomWeapon() {
 }
 
 function applyTexture(camoId = null) {
-  let textureId = camoId ? camoId : Math.floor(Math.random() * 35) + 1;
+  let textureId = camoId ? camoId : Math.floor(Math.random() * 56) + 1;
   currentCamoId = textureId;
   const textureLoader = new THREE.TextureLoader();
   const texture = textureLoader.load(
@@ -96,7 +96,7 @@ async function newWeapon() {
     document.querySelector('.weapon-class').textContent = weaponInfo.class;
     document.querySelector('.weapon-desc').textContent = weaponInfo.description;
 
-    loadModel(weaponInfo.class); // Load the appropriate model
+    loadModel(weaponInfo); // Load the appropriate model
 
     // Restart the fade-in animation
     const infoBox = document.querySelector('.info-box');
@@ -111,8 +111,10 @@ document.getElementById('generate').addEventListener('click', newWeapon);
 
 newWeapon();
 
-function loadModel(weaponClass) {
+function loadModel(weaponObj) {
   let modelPath;
+  const weaponClass = weaponObj.class;
+  const preferredCamoId = weaponObj.preferredTextureId;
 
   if (weaponClass === 'Assault Rifle') {
     modelPath = 'models/ar.glb';
@@ -142,7 +144,7 @@ function loadModel(weaponClass) {
       loadedModel = gltf;
       gltf.scene.rotation.set(0, 180, 0);
       scene.add(gltf.scene);
-      applyTexture(); // Apply texture after loading the model
+      applyTexture(preferredCamoId); // Apply texture after loading the model
     },
     undefined,
     function (error) {

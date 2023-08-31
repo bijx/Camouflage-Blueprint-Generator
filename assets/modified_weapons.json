@@ -1034,7 +1034,8 @@
     {
       "class": "Sniper",
       "description": "Ancient rifle that marks enemies on hit, revealing them to the entire team for a short duration.",
-      "weaponName": "Hieroglyph"
+      "weaponName": "Hieroglyph",
+      "preferredTextureId": 39
     },
     {
       "class": "LMG",
