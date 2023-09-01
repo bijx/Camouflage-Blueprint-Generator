@@ -41,7 +41,8 @@ async function pickRandomWeapon() {
       (weapon) =>
         weapon.class === 'Assault Rifle' ||
         weapon.class === 'Sniper' ||
-        weapon.class === 'SMG'
+        weapon.class === 'SMG' ||
+        weapon.class === 'Pistol'
     );
 
     // If there are no weapons, return null or throw an error
@@ -125,6 +126,8 @@ function loadModel(weaponObj) {
     modelPath = 'models/sniper.glb';
   } else if (weaponClass === 'SMG') {
     modelPath = 'models/smg.glb';
+  } else if (weaponClass === 'Pistol') {
+    modelPath = 'models/pistol.glb';
   } else {
     console.error('Unknown weapon class:', weaponClass);
     return;
