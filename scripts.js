@@ -38,7 +38,10 @@ async function pickRandomWeapon() {
 
     // Filter out the weapons that belong to the "Assault Rifle" or "Sniper Rifle" classes
     const weapons = data.weapons.filter(
-      (weapon) => weapon.class === 'Assault Rifle' || weapon.class === 'Sniper'
+      (weapon) =>
+        weapon.class === 'Assault Rifle' ||
+        weapon.class === 'Sniper' ||
+        weapon.class === 'SMG'
     );
 
     // If there are no weapons, return null or throw an error
@@ -120,6 +123,8 @@ function loadModel(weaponObj) {
     modelPath = 'models/ar.glb';
   } else if (weaponClass === 'Sniper') {
     modelPath = 'models/sniper.glb';
+  } else if (weaponClass === 'SMG') {
+    modelPath = 'models/smg.glb';
   } else {
     console.error('Unknown weapon class:', weaponClass);
     return;
