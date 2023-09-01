@@ -16,7 +16,7 @@ body {
 
 button#generate {
   position: absolute;
-  bottom: 5%;
+  bottom: 10%;
   left: 50%;
   transform: translateX(-50%);
   padding: 10px 20px;
@@ -92,6 +92,18 @@ button#generate:hover {
   font-size: 18px;
   opacity: 0.9;
   color: #fff;
+}
+
+footer {
+  text-align: center;
+  padding: 20px 0;
+  color: gray;
+  font-size: 12px;
+  letter-spacing: 2px;
+  width: 100%;
+  position: fixed; 
+  bottom: 0;      
+  left: 0; 
 }
 
 @keyframes fadeIn {
