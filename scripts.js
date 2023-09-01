@@ -42,7 +42,8 @@ async function pickRandomWeapon() {
         weapon.class === 'Assault Rifle' ||
         weapon.class === 'Sniper' ||
         weapon.class === 'SMG' ||
-        weapon.class === 'Pistol'
+        weapon.class === 'Pistol' ||
+        weapon.class === 'LMG'
     );
 
     // If there are no weapons, return null or throw an error
@@ -60,7 +61,7 @@ async function pickRandomWeapon() {
 }
 
 function applyTexture(camoId = null) {
-  let textureId = camoId ? camoId : Math.floor(Math.random() * 56) + 1;
+  let textureId = camoId ? camoId : Math.floor(Math.random() * 57) + 1;
   currentCamoId = textureId;
   const textureLoader = new THREE.TextureLoader();
   const texture = textureLoader.load(
@@ -128,6 +129,8 @@ function loadModel(weaponObj) {
     modelPath = 'models/smg.glb';
   } else if (weaponClass === 'Pistol') {
     modelPath = 'models/pistol.glb';
+  } else if (weaponClass === 'LMG') {
+    modelPath = 'models/lmg.glb';
   } else {
     console.error('Unknown weapon class:', weaponClass);
     return;
