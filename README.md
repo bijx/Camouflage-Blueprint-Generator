@@ -1,4 +1,4 @@
-![Weapon Blueprint Generator](https://imgur.com/CWm8zfA.png)
+[![Weapon Blueprint Generator](https://imgur.com/CWm8zfA.png)](https://bijx.github.io/Weapon-Blueprint-Generator/)
 
 [**[LIVE DEMO]**](https://bijx.github.io/Weapon-Blueprint-Generator/)
 # Weapon Blueprint Generator
