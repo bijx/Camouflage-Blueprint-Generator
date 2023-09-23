@@ -1,4 +1,4 @@
-[![Weapon Blueprint Generator](https://imgur.com/CWm8zfA.png)]([https://bijx.github.io/Camouflage-Blueprint-Generator/](https://bijx.github.io/Camouflage-Blueprint-Generator/))
+![Tileable Camo Textures](https://imgur.com/ZVsRsGT.png)
 
 [**[LIVE DEMO]**](https://bijx.github.io/Camouflage-Blueprint-Generator/)
 # Camo Blueprint Generator
@@ -35,8 +35,6 @@ Example Weapon Object:
 ### Tileable Camoflauge Texture
 A set of camo textures were also generated using Midjourney to create the unique skins for each weapon. Some skins were generated with prompts related to a specific weapon's generated `name` and `description`, so those textures are always associated with their respective weapons.
 
-![Tileable Camo Textures](https://imgur.com/ZVsRsGT.png)
-
 The camoflauge textures can be downloaded for each of the generated weapons, which is what makes the tool useful for game developers (or just tileable pattern enjoyers).
 
 ## Technology Stack
@@ -44,3 +42,5 @@ The system was built as a static HTML site so it could be served using Github Pa
 
 ## Licensing
 This project is open-source, under the premise that the images were generated using Midjourney and hence, should be free from any copyright constraints.
+
+[![Weapon Blueprint Generator](https://imgur.com/CWm8zfA.png)]([https://bijx.github.io/Camouflage-Blueprint-Generator/](https://bijx.github.io/Camouflage-Blueprint-Generator/))
