@@ -1,18 +1,18 @@
 [![Weapon Blueprint Generator](https://imgur.com/CWm8zfA.png)](https://bijx.github.io/Weapon-Blueprint-Generator/)
 
 [**[LIVE DEMO]**](https://bijx.github.io/Weapon-Blueprint-Generator/)
-# Weapon Blueprint Generator
-The **WBG** is an experimental online tool that generates random fictional weapons for video games, similar to bundles that can be found on many modern video games. When you generate a new weapon, the name, description, and weapon class are all selected from AI-generated options, and the weapon wrap (skin) is applied to the model on the screen.
+# Camo Blueprint Generator
+The **CBG** is an experimental online tool that generates random fictional weapons for video games, similar to bundles that can be found on many modern video games. When you generate a new weapon, the name, description, and weapon class are all selected from AI-generated options, and the weapon wrap (skin) is applied to the model on the screen.
 
 This application uses [three.js](https://github.com/mrdoob/three.js/) to display the various weapon models and textures.
 
 ## What's the Point?
-With the surging popularity of modern online video games and their concurrent users, a distinctive identity is something every player covets. Acquiring weapon or character skins, charms, stickers, and other cosmetic accessories often achieves this. The WBG taps into the allure of unique content in-game, suggesting a novel way for players to possess exclusive game items.
+With the surging popularity of modern online video games and their concurrent users, a distinctive identity is something every player covets. Acquiring weapon or character skins, charms, stickers, and other cosmetic accessories often achieves this. The CBG taps into the allure of unique content in-game, suggesting a novel way for players to possess exclusive game items.
 
 **TL;DR**: While the website is a fun-filled experiment, the prospects it hints at for future gaming are really exciting. 😁
 
 ## How it Works
-While the term "generator" suggests creation, the WBG is more aptly a "remixer". It integrates pre-generated content to conserve resources for the sake of the experiment. The various generated components are described below:
+While the term "generator" suggests creation, the CBG is more aptly a "remixer". It integrates pre-generated content to conserve resources for the sake of the experiment. The various generated components are described below:
 
 ### Weapon Information
 Every weapon is characterized by:
