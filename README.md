@@ -1,6 +1,6 @@
-[![Weapon Blueprint Generator](https://imgur.com/CWm8zfA.png)](https://bijx.github.io/Weapon-Blueprint-Generator/)
+[![Weapon Blueprint Generator](https://imgur.com/CWm8zfA.png)]([https://bijx.github.io/Camouflage-Blueprint-Generator/](https://bijx.github.io/Camouflage-Blueprint-Generator/))
 
-[**[LIVE DEMO]**](https://bijx.github.io/Weapon-Blueprint-Generator/)
+[**[LIVE DEMO]**](https://bijx.github.io/Camouflage-Blueprint-Generator/)
 # Camo Blueprint Generator
 The **CBG** is an experimental online tool that generates random fictional weapons for video games, similar to bundles that can be found on many modern video games. When you generate a new weapon, the name, description, and weapon class are all selected from AI-generated options, and the weapon wrap (skin) is applied to the model on the screen.
 
